@@ -9,6 +9,6 @@
 ## Installation
 * Go to settings
 * manage extensions
-* load unpacked
+* load unpacked (if you cant see, enable developer mode)
 * select the extracted folder of video tune
 
